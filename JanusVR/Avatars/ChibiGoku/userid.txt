@@ -1,0 +1,10 @@
+<FireBoxRoom>
+    <Assets>
+        <AssetGhost id="Ultranative" />
+        <AssetObject id="ChibiGoku_Head" src="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/Head.obj" mtl="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/Material.mtl" tex_linear="false" />
+        <AssetObject id="ChibiGoku_Body" src="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/Body.obj" mtl="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/Material.mtl" tex_linear="false" />
+    </Assets>
+    <Room use_local_asset="room_plane" col="0 0 0" skybox_left_id="" skybox_right_id="" skybox_front_id="" skybox_back_id="" skybox_up_id="" skybox_down_id="">
+        <Ghost id="Ultranative" pos="0 0 0" xdir="0 0 0" zdir="0 0 0" scale="1 1 1" head_id="ChibiGoku_Head" head_pos="0 10.385 0" eye_pos="0 1.6 0" body_id="ChibiGoku_Body" userid_pos="0 1 0" locked="false" />
+    </Room>
+</FireBoxRoom>
