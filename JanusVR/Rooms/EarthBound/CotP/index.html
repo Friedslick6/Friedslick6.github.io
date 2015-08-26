@@ -2,11 +2,16 @@
 <head>
     <title>Cave of the Past</title>
 </head>
-<body background="0.gif" style="background-color:#b0d0b8;background-position:center;background-repeat:no-repeat;background-size:contain;">
-    <audio autoplay loop>
+<body background="0.gif" onclick="_()" style="background-color:#b0d0b8;background-position:center;background-repeat:no-repeat;background-size:contain;">
+    <audio id="0" autoplay loop>
         <source src="1.wav" type="audio/wav">
     </audio>
-    <!--
+    <script>
+        function _() {
+            document.getElementById("0").muted = !document.getElementById("0").muted;
+        }
+    </script>
+    <!-- 
         <FireBoxRoom>
             <Assets>
                 <AssetImage id="0" src="2.bmp" />
@@ -16,5 +21,5 @@
                 <Sound id="1" rect="-100 -100 100 100" loop="true" />
             </Room>
         </FireBoxRoom>
-    -->
+     -->
 </body>
