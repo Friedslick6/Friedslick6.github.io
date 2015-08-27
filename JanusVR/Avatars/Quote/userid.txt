@@ -1,9 +1,0 @@
-<FireBoxRoom>
-    <Assets>
-        <AssetObject id="Quote_Body" src="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/Quote/Body.obj" mtl="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/Quote/Material.mtl" tex_linear="false" />
-        <AssetObject id="Quote_Head" src="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/Quote/Head.obj" mtl="https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/Quote/Material.mtl" tex_linear="false" />
-    </Assets>
-    <Room>
-        <Ghost id="Quote" js_id="Quote" pos="0 0 0" xdir="0 0 0" ydir="0 0 0" zdir="0 0 0" scale="1 1 1" head_id="Quote_Head" head_pos="0 1.375 0" body_id="Quote_Body" eye_pos="0 1.4 0" userid_pos="0 0.125 0" locked="true" />
-    </Room>
-</FireBoxRoom>
