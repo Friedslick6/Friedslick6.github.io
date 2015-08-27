@@ -1,30 +1,30 @@
 newmtl arm
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/arm.png
+map_Kd arm.png
 newmtl blue
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/blue.png
+map_Kd blue.png
 newmtl face
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/face.png
+map_Kd face.png
 newmtl hair
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/hair.png
+map_Kd hair.png
 newmtl hands
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/hands.png
+map_Kd hands.png
 newmtl mouth
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/mouth.png
+map_Kd mouth.png
 newmtl pants
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/pants.png
+map_Kd pants.png
 newmtl shirt
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/shirt.png
+map_Kd shirt.png
 newmtl shoe
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/shoe.png
+map_Kd shoe.png
 newmtl sole
 Kd 0.639999985695 0.639999985695 0.639999985695
-map_Kd https://raw.githubusercontent.com/Friedslick6/Friedslick6.github.io/master/JanusVR/Avatars/ChibiGoku/sole.png
+map_Kd sole.png
