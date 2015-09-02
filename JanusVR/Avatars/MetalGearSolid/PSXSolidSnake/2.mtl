@@ -1,84 +1,56 @@
 newmtl Upper_Arms
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_arm1.png
 newmtl Lower_Arms
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_arm2.png
 newmtl Upper_Holster_Leg
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_leg4.png
 newmtl Backside
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_leg2.png
 newmtl Lower_Legs
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_leg3.png
 newmtl Feet
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_boot.png
 newmtl Upper_Leg
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_leg1.png
 newmtl Head_Sides
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd alt/sna_mf2.png
 newmtl Head_Front
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd alt/sna_mf1.png
 newmtl Head_Back
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd alt/sna_mf3.png
 newmtl Head
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_hed.png
 newmtl Ear_Fronts
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_ear1.png
 newmtl Ear_Sides
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_ear2.png
 newmtl Chest
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd alt/sna_armer1.png
 newmtl Chest_Sides
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd alt/sna_armer3.png
 newmtl Back
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd alt/sna_armer2.png
 newmtl Finger_Fronts
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_fin.png
 newmtl Finger_Backs
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_fin3.png
 newmtl Finger_Sides
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_fin2.png
 newmtl Hand_Palms
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_hand2.png
 newmtl Hand_Fronts
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_hand.png
 newmtl Collar_Top
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_collar1.png
 newmtl Collar_Sides
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_collar2.png
 newmtl Waist
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd alt/sna_armer4.png
 newmtl Waist_Back
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_hip2.png
 newmtl Waist_Sides
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_chest4.png
 newmtl Neck_Front
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_neck2.png
 newmtl Neck_Back
-Kd 0.587999999523 0.587999999523 0.587999999523
 map_Kd sna_neck.png
