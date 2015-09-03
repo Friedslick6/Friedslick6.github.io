@@ -98,12 +98,8 @@ newmtl CONS1_5
 map_Kd CONS1_5.png
 newmtl CONS1_7
 map_Kd CONS1_7.png
-newmtl NUKAGE1
-map_Kd NUKAGE1.png
-newmtl NUKAGE2
-map_Kd NUKAGE2.png
 newmtl NUKAGE3
-map_Kd NUKAGE3.png
+map_Kd NUKAGE3.gif
 newmtl F_SKY1
 map_Kd F_SKY1.png
 newmtl SFLR6_1
