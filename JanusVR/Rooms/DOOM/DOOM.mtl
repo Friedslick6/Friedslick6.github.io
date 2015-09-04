@@ -326,8 +326,6 @@ newmtl REDWALL1
 map_Kd REDWALL1.png
 newmtl SHAWN2
 map_Kd SHAWN2.png
-newmtl SKY1
-map_Kd SKY1.png
 newmtl SLADPOIS
 map_Kd SLADPOIS.png
 newmtl SLADRIP1
