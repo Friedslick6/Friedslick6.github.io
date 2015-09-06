@@ -592,12 +592,8 @@ newmtl PIPE6
 map_Kd PIPE6.png
 newmtl REDWALL
 map_Kd REDWALL.png
-newmtl ROCKRED1
-map_Kd ROCKRED1.png
-newmtl ROCKRED2
-map_Kd ROCKRED2.png
 newmtl ROCKRED3
-map_Kd ROCKRED3.png
+map_Kd ROCKRED3.gif
 newmtl SHAWN1
 map_Kd SHAWN1.png
 newmtl SHAWN3
@@ -731,4 +727,4 @@ map_Kd WOOD5.png
 newmtl WOODGARG
 map_Kd WOODGARG.png
 newmtl WOODSKUL
-map_Kd WOODSKUL
+map_Kd WOODSKUL.png
