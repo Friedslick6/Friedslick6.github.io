@@ -8,7 +8,6 @@ ma_building_a.obj
 ma_building_b.obj
 ma_building_c.obj
 ma_building_far01_a.dds
-ma_building_far01_a_glow.dds
 ma_building_far02_a.dds
 ma_building_far02_a_glow.dds
 ma_building_far03_a.dds
@@ -113,4 +112,4 @@ ma_window_wall.dds
 ma_wine_bottle_a.dds
 ma_wood_fence.dds
 ma_wood_fence_a.obj
-Render.png
+Render.dds
