@@ -36,7 +36,8 @@ ma_fence_b.dds
 ma_figure_a.dds
 ma_figure_a.obj
 ma_fire.obj
-
+ma_fire_a_INST.mov
+ma_fire_b_INST.mov
 ma_fireplace_a.dds
 ma_fireplace_a.obj
 ma_floor.obj
@@ -111,3 +112,4 @@ ma_window_wall.dds
 ma_wine_bottle_a.dds
 ma_wood_fence.dds
 ma_wood_fence_a.obj
+Render.dds
