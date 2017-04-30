@@ -1,7 +1,5 @@
-room.load = function() {
-    onKeyDown = function(event) {
-        if (event.keycode == "F") {
-            event.preventDefault();
-        }
+room.onKeyDown = function(event) {
+    if (event.keycode == "F") {
+        event.preventDefault();
     }
 }
