@@ -1,5 +1,5 @@
 room.onKeyDown = function(event) {
-    if (event.keycode == "F") {
+    if (event.keyCode == "F") {
         event.preventDefault();
     }
 }

@@ -1,6 +1,4 @@
 BGM_SLY.wav
-ma_window_big_move.fbx
-ma_window_curtain.fbx
 ma.mtl
 ma_bed_a.dds
 ma_bridge_a.dds
@@ -37,10 +35,9 @@ ma_fence_b.dds
 ma_figure_a.dds
 ma_figure_a.obj
 ma_fire.obj
-ma_fire_a_INST.avi
-ma_fire_a_INST.mov
-ma_fire_b_INST.avi
-ma_fire_b_INST.mov
+ma_fire_a_INST.dds
+ma_fire_b_INST.dds
+ma_fire_INST.txt
 ma_fireplace_a.dds
 ma_fireplace_a.obj
 ma_floor.obj
@@ -110,9 +107,10 @@ ma_window_big_a.dds
 ma_window_big_a_all.obj
 ma_window_big_b_all.obj
 ma_window_big_c_all.obj
+ma_window_big_move.fbx
+ma_window_curtain.fbx
 ma_window_glass_a.dds
 ma_window_wall.dds
 ma_wine_bottle_a.dds
 ma_wood_fence.dds
 ma_wood_fence_a.obj
-Render.dds
