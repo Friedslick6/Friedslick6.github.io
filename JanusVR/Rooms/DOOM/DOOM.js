@@ -1,6 +1,7 @@
-var a = jQuery.Event( 'keydown', { which: $.ui.keyCode.F } );
-if (player.flying == 1) {
-    $('input').trigger(a);
+room.onLoad() {
+    if (player.flying == 1) {
+        player.flying = 0;
+    }
 }
 room.onKeyDown = function(event) {
     if (event.keyCode == "F") {
