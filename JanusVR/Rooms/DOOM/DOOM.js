@@ -1,9 +1,3 @@
-/*room.onLoad() {
-    if (player.flying == 1) {
-        player.flying = 0;
-    }
-}
-*/
 var falldistance;
 room.onLoad = function() {
     my_collision = room.createObject('Object', {
