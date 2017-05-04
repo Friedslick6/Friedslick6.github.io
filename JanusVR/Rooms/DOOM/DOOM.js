@@ -1,3 +1,8 @@
+/*
+know when the player's y velocity decreases
+each frame you can store the player's current velocity, and check if (currentvelocity < 0 && lastvelocity >= 0) **WRONG**
+then Detect a fall of 1.375m.
+*/
 var falldistance;
 room.onLoad = function() {
     my_collision = room.createObject('Object', {
