@@ -1,6 +1,3 @@
-room.update = function() {
-debugger;
-}
 var falldistance;
 room.onLoad = function() {
     my_collision = room.createObject('Object', {
@@ -17,6 +14,8 @@ room.onLoad = function() {
 room.onCollisionExit = function(object1, object2) {
     if (object1.js_id == 'playermarker' && object2.js_id == '2') {
         falldistance = room.objects['playermarker'].pos.y - 1.375;
+        print(falldistance);
+        debugger;
     }
 }
 room.onCollisionEnter = function(object1, object2) {
