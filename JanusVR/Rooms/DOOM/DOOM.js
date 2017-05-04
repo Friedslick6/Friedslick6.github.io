@@ -1,3 +1,7 @@
+room.update = function() {
+room.objects["blah"].pos.y = 5.0;
+debugger;
+}
 var falldistance;
 room.onLoad = function() {
     my_collision = room.createObject('Object', {
