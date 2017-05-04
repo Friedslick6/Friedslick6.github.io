@@ -1,5 +1,4 @@
 room.update = function() {
-room.objects["blah"].pos.y = 5.0;
 debugger;
 }
 var falldistance;
